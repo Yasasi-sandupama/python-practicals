@@ -27,4 +27,14 @@ ha
 
  hari wada karan yaddi awulak awoth ahannm
 
- aya awulak wenne naa dan me hadapu file eka delete karannam man aniaka thama fil eka delete karoth aniwaren comit ekk gahanna balaganna
+ aya awulak wenne naa dan me hadapu file eka delete karannam man aniaka thama fil eka delete karoth aniwaren comit ekk gahanna balaganna\  beheth beela ennm
+ aantha wuab
+ awa
+ awa
+ therunada
+ ow
+ theruna
+ karan yadd hairyay
+
+ commit karanna?????
+ 
