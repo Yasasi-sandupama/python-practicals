@@ -1,10 +1,8 @@
-print("Python is working!")
-print("This is a test.")
+# list_test.py
+fruits = ["apple", "banana", "cherry"]
+print("Fruits list:")
+for fruit in fruits:
+    print(f" - {fruit}")
 
-# Simple math
-x = 10
-y = 5
-print(f"{x} + {y} = {x + y}")
-print(f"{x} * {y} = {x * y}")
-
-print("Done.")
+print(f"\nTotal fruits: {len(fruits)}")
+print("Done!")
